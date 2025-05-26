@@ -1,0 +1,7 @@
+.slow-hower{
+    transition: 0.5s;
+}
+.slow-hower:hover{
+    box_shadow:0px 4px 12px rgba(0,0,0,0.3);
+    
+}
