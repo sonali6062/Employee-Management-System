@@ -9,7 +9,7 @@ A web-based Employee Management System built with the **Django** framework. This
 - 📝 Edit/update employee details  
 - ❌ Delete employee records  
 - 🔍 Search and filter employees  
-- 📋 View a list of all employees  
+- 📋 View a list of all employees  and various roles associated to them
 - ✅ User-friendly and responsive interface  
 
 ## 🛠️ Tech Stack
