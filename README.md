@@ -5,7 +5,7 @@ A **web-based Employee Management System** built using the **Django** framework.
 
 ## 🌐 Live URL
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)  
-*(For local use — update with deployed link if applicable)*
+*(For local use )*
 
 ---
 
