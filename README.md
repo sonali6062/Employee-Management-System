@@ -30,3 +30,10 @@ A web-based Employee Management System built with the **Django** framework. This
   <img src="./images/Screenshot.png" alt="Screenshot" width="700">
 </p>
 
+<p align="center">
+  <img src="./images/Admin login.png" alt="Screenshot" width="700">
+</p>
+
+<p align="center">
+  <img src="./images/Admin view.png" alt="Screenshot" width="700">
+</p>
