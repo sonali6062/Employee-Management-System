@@ -26,5 +26,7 @@ A web-based Employee Management System built with the **Django** framework. This
    git clone https://github.com/sonali6062/Employee-Management-System.git
    cd Employee-Management-System
 
-![Screenshot](./images/screenshot.png)
+<p align="center">
+  <img src="./images/screenshot.png" alt="Screenshot" width="700">
+</p>
 
