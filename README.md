@@ -27,6 +27,6 @@ A web-based Employee Management System built with the **Django** framework. This
    cd Employee-Management-System
 
 <p align="center">
-  <img src="./images/screenshot.png" alt="Screenshot" width="700">
+  <img src="./images/Screenshot.png" alt="Screenshot" width="700">
 </p>
 
