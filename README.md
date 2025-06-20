@@ -102,11 +102,5 @@ Feel free to fork this repository, make changes, and submit pull requests. Contr
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-```
-
-You can copy and paste this entire block into your `README.md` file directly. Let me know if you want to add deployment steps for platforms like **Heroku**, **Vercel**, or **Render**!
-```
